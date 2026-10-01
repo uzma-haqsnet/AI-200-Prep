@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets - never commit Azure keys/connection strings
+.env
+*.env.local
+local.settings.json
+
+# OS
+.DS_Store
