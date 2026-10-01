@@ -22,4 +22,6 @@ Each `week-N-*` folder has:
 
 ## Progress
 
-Tracked via commits here, and in the interactive tracker artifact.
+Live checklist, synced across devices: [AI-200 Tracker](https://claude.ai/artifact/KGza5vRG7XrXddHeeA2byE)
+
+Also tracked via commits in this repo — one per completed lab/milestone.
